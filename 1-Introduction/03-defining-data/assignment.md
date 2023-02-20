@@ -13,9 +13,9 @@ Follow the prompts in this assignment to identify and classify the data with one
 1. A company has been acquired and now has a parent company. The data scientists have received a spreadsheet of customer phone numbers from the parent company. 
 
 Structure Type:
-
+// Structured
 Value Type: 
-
+Quantitative
 Source Type: 
 
 ---
